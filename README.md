@@ -75,9 +75,9 @@ V4 = 4.69V
 
 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora. 
 
-![](https://github.com/aicanarejo/Informe-5/blob/main/a6.png)
+![](https://github.com/aicanarejo/Informe-5/blob/main/1.1.png)
 
-![](https://github.com/aicanarejo/Informe-5/blob/main/a7.png)
+![](https://github.com/aicanarejo/Informe-5/blob/main/a6.png)
 
 I1 = 1.23A
 
