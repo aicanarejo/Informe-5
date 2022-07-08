@@ -89,7 +89,7 @@ SECCIÓN 9–2 Método de la corriente en ramas
 
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
-![](https://github.com/aicanarejo/Informe-5/blob/main/a8.png)
+![](https://github.com/aicanarejo/Informe-5/blob/main/a7.png)
 
 ![](https://github.com/aicanarejo/Informe-5/blob/main/a-c.png)
 
