@@ -288,9 +288,20 @@ de cd de salida a su pico (alcanza un máximo)?
 
 Concluciones
 
+Tras la amplia resolucion y el desarrolo de los ejercicios de principios del libro de floyd llegamos varios datos puestos resolviendo gracias a los conocimientos mediante matrises  metodos que nos ayudaron a un manejo y funcionamiento de cada circuito tomando los valores de voltaje y posteriormente su corriente.
+
+Los metodos que normalmente utilizamos generaron varios dsatos es asi que en el capitulo 10 gracias a las formulas previas vistas sobre como es el funcionamiento del magnetismo y electromagnetismo.
+
+Es asi que llegamos a la conclucion que varios de estos metodos y los resien comprendidos analizados y puestos en practica se obtuvieron datos y valores de una forma muy rapida y precisa de cada uno de ellos.
+
+Bibliografia
+
+(Floyd,T)(2007). Principios de circuitos eléctricos 8va edición. 
+http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
 
 
 Video
 
-Rubrica
+
 
