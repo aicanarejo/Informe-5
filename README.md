@@ -34,6 +34,7 @@ Resolucion de problemas y ejercicios
 Capitulo 9
 
 2. Evalúe cada determinante
+
 ![](
 
 4. Evalúe cada uno de los determinantes:
