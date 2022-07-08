@@ -8,15 +8,25 @@ NRC: 7322
 
 ESP: DARWIN OMAR ALULEMA FLORES
 
-Objetivo General:
+Objetivo General:Analizar tres métodos de resolver ecuaciones
+simultáneas Utilizando varios métodos en  corriente en ramas para
+determinar cantidades desconocidas y análizar de lazos en circuitos 
 
 Objetivos Especificos:
+ 
+Explicar los principios de un campo magnético
+y los principios del electromagnetismo 
+describiendo las operación de varios tipos
+de dispositivos electromagnéticos
 
 Objetivos Especificos:
+Explicar la histéresis magnética en el  principio de inducción
+electromagnética obteniendo aplicaciones de la inducción
+electromagnética
 
 Marco Teorico
 
-![](https://github.com/aicanarejo/Informe-5/blob/main/1.png)
+![](https://github.com/aicanarejo/Informe-5/blob/main/lindo.png)
 
 ![](https://github.com/aicanarejo/Informe-5/blob/main/2.png)
 
