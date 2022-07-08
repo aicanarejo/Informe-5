@@ -51,7 +51,7 @@ d) (100*(-20)) - (50*3) = -3500
 
 ![](https://github.com/aicanarejo/Informe-5/blob/main/a2.png)
 
-![](https://github.com/aicanarejo/Informe-5/blob/main/a.png)
+![](https://github.com/aicanarejo/Informe-5/blob/main/0.png)
 
 6. Determine I3 en el ejemplo 9-4.
 
