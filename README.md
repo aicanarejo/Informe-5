@@ -313,5 +313,7 @@ http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos
 
 Video
 
+https://youtu.be/V-1qBSnGd2s
+
 
 
